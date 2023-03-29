@@ -1,1 +1,26 @@
-# ppv22
+## Overview
+
+This repository contains the code which was used to provide the implementation runtimes reported in:
+
+Alberto Pedrouzo-Ulloa, Fernando Pérez-González, David Vázquez-Padín. "Multi-Key Homomorphic Encryption for Collaborative Camera Attribution," 5th HomomorphicEncryption.org Standards Meeting, Geneva, Switzerland, 2022.
+
+## Contact
+
+To contact us, please send an email to: [apedrouzo@gts.uvigo.es](mailto:apedrouzo@gts.uvigo.es).
+
+## Citation
+
+Please use the following BibTex entry to cite our work:
+
+	@inproceedings{DBLP:conf/eicc/Pedrouzo-UlloaP22,
+	  	author = {Alberto Pedrouzo-Ulloa and Fernando P{\'{e}}rez-Gonz{\'{a}}lez and David V{\'{a}}zquez-Pad{\'{\i}}n},
+	  	title = {{Secure Collaborative Camera Attribution}},
+	  	booktitle = {{EICC} 2022: European Interdisciplinary Cybersecurity Conference, Barcelona, Spain, June 15 - 16, 2022},
+	  	pages = {97--98},
+	  	publisher = {{ACM}},
+	  	year = {2022}
+	}
+
+## References
+1. Alberto Pedrouzo-Ulloa, Fernando Pérez-González, David Vázquez-Padín. "Multi-Key Homomorphic Encryption for Collaborative Camera Attribution," 5th HomomorphicEncryption.org Standards Meeting, Geneva, Switzerland, 2022.
+2. Alberto Pedrouzo-Ulloa, Fernando Pérez-González, David Vázquez-Padín. "Secure Collaborative Camera Attribution," European Interdisciplinary Cybersecurity Conference (EICC), pp. 97-98, Barcelona, Spain, 2022.
