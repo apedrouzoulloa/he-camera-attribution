@@ -1,8 +1,16 @@
 ## Overview
 
-This repository contains the code which was used to provide the implementation runtimes reported in:
+This repository contains an implementation of the protocolos introduced in:
+
+Alberto Pedrouzo-Ulloa, Fernando Pérez-González, David Vázquez-Padín. "Secure Collaborative Camera Attribution." EICC 2022: 97-98.
+
+The code was used to generate the runtimes reported in:
 
 Alberto Pedrouzo-Ulloa, Fernando Pérez-González, David Vázquez-Padín. "Multi-Key Homomorphic Encryption for Collaborative Camera Attribution," 5th HomomorphicEncryption.org Standards Meeting, Geneva, Switzerland, 2022.
+
+The repository includes:
+	1. Implementations of the protocols for aggregation and matching functionalities.
+	2. A PDF of the poster presented at HES'22.
 
 ## Contact
 
@@ -12,7 +20,7 @@ To contact us, please send an email to: [apedrouzo@gts.uvigo.es](mailto:apedrouz
 
 Please use the following BibTex entry to cite our work:
 
-	@inproceedings{DBLP:conf/eicc/Pedrouzo-UlloaP22,
+	@inproceedings{PPV22,
 	  	author = {Alberto Pedrouzo-Ulloa and Fernando P{\'{e}}rez-Gonz{\'{a}}lez and David V{\'{a}}zquez-Pad{\'{\i}}n},
 	  	title = {{Secure Collaborative Camera Attribution}},
 	  	booktitle = {{EICC} 2022: European Interdisciplinary Cybersecurity Conference, Barcelona, Spain, June 15 - 16, 2022},
