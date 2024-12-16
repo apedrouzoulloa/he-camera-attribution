@@ -32,3 +32,10 @@ Please use the following BibTex entry to cite our work:
 ## References
 1. Alberto Pedrouzo-Ulloa, Fernando Pérez-González, David Vázquez-Padín. "Multi-Key Homomorphic Encryption for Collaborative Camera Attribution," 5th HomomorphicEncryption.org Standards Meeting, Geneva, Switzerland, 2022.
 2. Alberto Pedrouzo-Ulloa, Fernando Pérez-González, David Vázquez-Padín. "Secure Collaborative Camera Attribution," European Interdisciplinary Cybersecurity Conference (EICC), pp. 97-98, Barcelona, Spain, 2022.
+
+## Dependencies
+This project uses the Lattigo v3 library, an open-source library for homomorphic encryption.
+
+## License
+
+This project is licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0). See the `LICENSE` file for more details.
