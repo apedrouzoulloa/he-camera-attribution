@@ -9,8 +9,8 @@ The code was used to generate the runtimes reported in:
 Alberto Pedrouzo-Ulloa, Fernando Pérez-González, David Vázquez-Padín. "Multi-Key Homomorphic Encryption for Collaborative Camera Attribution," 5th HomomorphicEncryption.org Standards Meeting, Geneva, Switzerland, 2022.
 
 The repository includes:
-	1. Implementations of the protocols for aggregation and matching functionalities.
-	2. A PDF of the poster presented at HES'22.
+1. Implementations of the protocols for aggregation and matching functionalities.
+2. A PDF of the poster presented at HES'22.
 
 ## Contact
 
