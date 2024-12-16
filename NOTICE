@@ -1,0 +1,9 @@
+This project includes code that uses the Lattigo library, which is licensed under the Apache License 2.0.
+
+For more details, see the Lattigo repository at:
+https://github.com/tuneinsight/lattigo
+
+The Lattigo library v3 can be found at https://github.com/tuneinsight/lattigo/releases/tag/v3.0.2.
+
+The Lattigo library is licensed under the Apache License 2.0, which can be found at:
+https://opensource.org/licenses/Apache-2.0
