@@ -40,5 +40,5 @@ This project uses the Lattigo v3 library, an open-source library for homomorphic
 
 This project is licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0). See the `LICENSE` file for more details.
 
-Additionally, this project uses the Lattigo v3 library, which is also licensed under the [Apache License 2.0](https://opensource.org/licenses/Apache-2.0). 
+Additionally, this project uses the Lattigo v3 library and has adapted some of the examples provided in the Lattigo repository to the context of camera attribution. The Lattigo library is also licensed under the [Apache License 2.0](https://opensource.org/licenses/Apache-2.0). 
 A copy of Lattigo's license is included in the file `LICENSE.Lattigo`. Please refer to it for more information.
